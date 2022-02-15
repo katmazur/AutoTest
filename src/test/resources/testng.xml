@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="GigaBerlinTest" parallel="tests" thread-count="2">
+<!--    &lt;!&ndash;    <test name="TestSafari">&ndash;&gt;-->
+<!--    &lt;!&ndash;        <parameter name="browser" value="safari"/>&ndash;&gt;-->
+<!--    &lt;!&ndash;        <classes>&ndash;&gt;-->
+<!--    &lt;!&ndash;            <class name="SetUp"/>&ndash;&gt;-->
+<!--    &lt;!&ndash;            <class name="GigaBerlinTest"/>&ndash;&gt;-->
+<!--    &lt;!&ndash;        </classes>&ndash;&gt;-->
+<!--    &lt;!&ndash;    </test>&ndash;&gt;-->
+<!--    <test name="TestFireFox">-->
+<!--        <parameter name="browser" value="firefox"/>-->
+<!--        <classes>-->
+<!--            <class name="SetUp"/>-->
+<!--            <class name=""/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="TestChrome">-->
+<!--        <parameter name="browser" value="chrome"/>-->
+<!--        <classes>-->
+<!--            <class name="SetUp"/>-->
+<!--            <class name=""/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
